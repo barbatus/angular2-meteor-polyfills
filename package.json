@@ -1,0 +1,10 @@
+{
+  "name": "angular2-meteor-polyfills",
+  "version": "0.1.1",
+  "description": "Angular2 Polyfills for Angular2-Meteor",
+  "main": "main.js",
+  "browser": "browser.js",
+  "author": "Alex Borodach (https://github.com/barbatus)",
+  "repository": "https://github.com/barbatus/angular2-meteor-polyfills",
+  "license": "MIT"
+}
