@@ -1,6 +1,6 @@
 {
   "name": "angular2-meteor-polyfills",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Angular2 Polyfills for Angular2-Meteor",
   "main": "main.js",
   "browser": "browser.js",
